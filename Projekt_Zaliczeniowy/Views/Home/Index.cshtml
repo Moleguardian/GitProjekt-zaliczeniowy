@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Strona Główna";
+}
+
+<div class="container text-center">
+    <h1 class="mt-5">Witaj w sklepie Wielobranżowym "Mors"</h1>
+    <p class="lead mt-3">
+        Ta aplikacja umożliwia zarządzanie produktami, w tym ich dodawanie, edytowanie, usuwanie oraz przeglądanie.
+    </p>
+    <p class="text-danger mt-3">
+        Aby korzystać z aplikacji, musisz się zalogować.
+    </p>
+    <a asp-controller="Account" asp-action="Login" class="btn btn-primary mt-4">Zaloguj się</a>
+    <p><a asp-controller="Account" asp-action="Register">Zarejestruj się</a></p>
+
+</div>

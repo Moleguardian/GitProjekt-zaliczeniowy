@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Sklep Wielobranżowy";
+}
+
+<form asp-controller="Account" asp-action="Logout" method="post">
+    <button type="submit" class="btn btn-danger">Wyloguj się</button>
+</form>
+
+<h1>Sklep Wielobranżowy "Mors"</h1>
+  
+<p>
+    <a asp-action="Create" class="btn btn-primary">Dodaj Produkt</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nazwa produktu
+            </th>
+            <th>
+                Cena
+            </th>
+            <th>
+                Opis
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edytuj produkt</a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Wyświetl Szczegóły</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Usuń produkt</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

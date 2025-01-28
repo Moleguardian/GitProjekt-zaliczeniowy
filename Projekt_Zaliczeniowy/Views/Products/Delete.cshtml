@@ -1,0 +1,38 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Usuwanie Produktu</h1>
+
+<h3>Jesteś pewnien że chcesz usunąć ten produkt</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            <a>Nazwa Produktu</a>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            <a>Cena</a>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class = "col-sm-2">
+            <a>Opis</a>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Usuń" class="btn btn-danger" /> |
+        <a asp-action="Index">Wróć na strone sklepu</a>
+    </form>
+</div>

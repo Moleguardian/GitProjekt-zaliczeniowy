@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\migrations\\20250126192856_fixproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\migrations\\20250126192856_fixproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\projekt_zaliczeniowy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\projekt_zaliczeniowy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|c:\\users\\piasn\\source\\repos\\projekt_zaliczeniowy\\projekt_zaliczeniowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399A6BA-FCB2-48EE-B2ED-BF3B0D4D1452}|Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj|solutionrelative:projekt_zaliczeniowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:00:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T21:27:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T21:48:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T21:33:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T21:45:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T19:01:39.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:02:28.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Account\\Register.cshtml*",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Account\\Register.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T19:16:03.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Program.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Program.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T22:45:36.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:16:43.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:27:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:00:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:51:44.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-26T18:56:05.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:00:48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T18:54:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250126192856_FixProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Migrations\\20250126192856_FixProductsTable.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Migrations\\20250126192856_FixProductsTable.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Migrations\\20250126192856_FixProductsTable.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Migrations\\20250126192856_FixProductsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:28:57.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Projekt_Zaliczeniowy.csproj",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T20:25:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\Models\\Product.cs",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T20:11:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\appsettings.json",
+              "RelativeDocumentMoniker": "Projekt_Zaliczeniowy\\appsettings.json",
+              "ToolTip": "C:\\Users\\piasn\\source\\repos\\Projekt_Zaliczeniowy\\Projekt_Zaliczeniowy\\appsettings.json",
+              "RelativeToolTip": "Projekt_Zaliczeniowy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T19:55:27.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
