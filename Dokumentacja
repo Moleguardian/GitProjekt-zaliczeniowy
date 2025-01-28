@@ -1,0 +1,36 @@
+Cel Aplikacji:
+  Celem aplikacji jest umożliwienie użytkownikom zarządzania produktami w bazie danych. Użytkownicy mogą się rejestrować, logować oraz wykonywać operacje takie jak dodawanie, edycja, usuwanie i wyświetlanie listy produktów.
+  Funkcjonalności:
+1.	Rejestracja Użytkownika:
+    Formularz rejestracyjny, gdzie należy podać adres e-mail, hasło oraz potwierdzić hasło.
+    Weryfikacja poprawności danych (np. minimalna długość hasła, unikalny e-mail).
+2.	Logowanie Użytkownika:
+    Użytkownik może zalogować się przy użyciu swojego adresu e-mail i hasła.
+    Informacja o nieprawidłowych danych logowania w przypadku błędu.
+3.	Lista Produktów:
+	  Wyświetlenie wszystkich produktów w postaci tabeli z kolumnami: Nazwa, Cena, Opis.
+	  Przyciski do edycji i usuwania każdego produktu.
+4.	Dodawanie Produktów:
+	  Formularz umożliwiający podanie nazwy, ceny oraz opisu produktu.
+5.	Edycja Produktów:
+	  Formularz pozwalający na modyfikację istniejących danych produktu.
+6.	Usuwanie Produktów:
+	Usuwanie wybranego produktu z bazy danych za pomocą dedykowanego przycisku.
+7.	Wylogowanie Użytkownika:
+	  Wylogowanie użytkownika i przekierowanie na stronę logowania.
+8.	Powiadomienia:
+	  Informacje o sukcesie lub błędach podczas rejestracji, logowania, dodawania, edycji czy usuwania produktów.
+
+Schemat Bazy Danych
+Tabele:
+1.	AspNetUsers (użytkownicy):
+  	Id (PK): Unikalny identyfikator użytkownika.
+  	Email: Adres e-mail użytkownika.
+  	PasswordHash: Zahasłowane hasło.
+  	UserName: Nazwa użytkownika (zazwyczaj e-mail).
+2.	Products (produkty):
+  	Id (PK): Unikalny identyfikator produktu.
+  	Name: Nazwa produktu.
+  	Price: Cena produktu (wartość dodatnia).
+  	Description: Opis produktu.
+
